@@ -1,2 +1,1 @@
-### PLEASE GO HERE INSTEAD FOR WORKING SCRIPTS:
-https://github.com/EnterpriseExperience/MicUpSource
+https://github.com/EnterpriseExperience/MicUpSource/blob/main/README.md
